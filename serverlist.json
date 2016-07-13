@@ -1,5 +1,5 @@
 { 
     "serverlist" : [
-        {"name": "test", "server": "192.168.0.1", "group": "test", "username": "administrator", "password": "test"},
+        {"name": "test", "server": "192.168.0.1", "group": "test", "username": "administrator", "password": "test"}
     ]
 }
